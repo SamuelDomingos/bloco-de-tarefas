@@ -4,7 +4,7 @@
 Um bloco de notas 100% funcional aonde podera guardar as anotações e determinado seus tempos
 
 <h2 align="center"> 
-	🚧  Bloco-de-Notas 🚀 Possivel futuras atualizações...  🚧
+	🚀 Concluido 🚀
 </h2>
 
 ### 🛠 Tecnologias
